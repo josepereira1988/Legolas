@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Legolas", "Legolas\Legolas.csproj", "{83A424E6-76E8-4038-A938-4AB3D4939634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A424E6-76E8-4038-A938-4AB3D4939634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A424E6-76E8-4038-A938-4AB3D4939634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A424E6-76E8-4038-A938-4AB3D4939634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A424E6-76E8-4038-A938-4AB3D4939634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBA5401-DF71-42E8-999E-2FCEF892EFDD}
+	EndGlobalSection
+EndGlobal

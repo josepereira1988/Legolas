@@ -1,0 +1,12 @@
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\bin\Debug\net6.0\DbConnect.deps.json
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\bin\Debug\net6.0\DbConnect.dll
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\bin\Debug\net6.0\DbConnect.pdb
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\DbConnect.csproj.AssemblyReference.cache
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\DbConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\DbConnect.AssemblyInfoInputs.cache
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\DbConnect.AssemblyInfo.cs
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\DbConnect.csproj.CoreCompileInputs.cache
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\DbConnect.dll
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\refint\DbConnect.dll
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\DbConnect.pdb
+C:\Users\ajc\Documents\Projetos\Particular\Legolas\DbConnect\obj\Debug\net6.0\ref\DbConnect.dll
